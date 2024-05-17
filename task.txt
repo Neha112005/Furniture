@@ -1,4 +1,8 @@
 hello
 Hi
 neha
+<<<<<<< HEAD
 task
+=======
+scm project
+>>>>>>> 0df5fc6dfab5083deefb4e8060e7dba62a107aa1
